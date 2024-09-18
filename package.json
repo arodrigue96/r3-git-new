@@ -1,0 +1,12 @@
+{
+  "name": "r3-git-new",
+  "version": "1.0.0",
+  "description": "Este es un proyecto para practicar los comandos de Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
